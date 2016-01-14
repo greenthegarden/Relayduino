@@ -16,7 +16,7 @@
 #define RELAY_5      6  // Relay 5 is connected to Arduino Digital 6 PWM
 #define RELAY_6      7  // Relay 6 is connected to Arduino Digital 7
 #define RELAY_7      8  // Relay 7 is connected to Arduino Digital 8
-#define RELAY_MASTER 9  // Relay 8 is connected to Arduino Digital 9 PWM
+#define RELAY_8      9  // Relay 8 is connected to Arduino Digital 9 PWM
 
 //int Relays[8] = { RELAY_1, RELAY_2, RELAY_3, RELAY_4, RELAY_5, RELAY_6, RELAY_7, RELAY_MASTER };
 
